@@ -20,3 +20,11 @@ This project implements a movie recommendation system combining **Collaborative 
    streamlit run app.py
    ```
 
+# My Project
+
+This is an image from my project:
+
+
+![Collaborative Filtering](images/img1.jpg)
+
+![Content Based Filtering](images/img2.jpg)
